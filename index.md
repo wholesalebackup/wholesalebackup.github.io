@@ -1,6 +1,6 @@
 ---
 title: WholesaleBackup
-description: Release notes, roadmap, and developer docs for WholesaleBackup white-label backup software for MSPs, IT pros, and resellers.
+description: "Release notes, roadmap, and developer docs for WholesaleBackup white-label backup software for MSPs, IT pros, and resellers."
 ---
 
 # WholesaleBackup

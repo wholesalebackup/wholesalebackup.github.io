@@ -1,7 +1,7 @@
 ---
 title: Releases
 permalink: /releases/
-description: Every WholesaleBackup release, newest first: Backup Ops Web Console, Windows and Mac backup clients, WSBU Server. Dated, with links to the setup guides.
+description: "Every WholesaleBackup release, newest first. Backup Ops Web Console, Windows and Mac backup clients, WSBU Server. Dated, with links to the setup guides."
 ---
 
 # WholesaleBackup Releases

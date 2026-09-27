@@ -1,0 +1,5 @@
+title: WholesaleBackup
+description: Releases, roadmap, and developer docs for WholesaleBackup white-label backup software
+theme: jekyll-theme-minimal
+show_downloads: false
+plugins: [jekyll-seo-tag]

@@ -1,5 +1,18 @@
 title: WholesaleBackup
-description: Releases, roadmap, and developer docs for WholesaleBackup white-label backup software
+description: Release notes, roadmap, and developer docs for WholesaleBackup white-label backup software.
+url: https://wholesalebackup.github.io
+lang: en-US
 theme: jekyll-theme-minimal
+logo: /assets/logo.png
+twitter:
+  username: wholesalebackup
+social:
+  name: WholesaleBackup
+  links:
+    - https://wholesalebackup.com/
+    - https://x.com/wholesalebackup
+    - https://www.linkedin.com/company/wholesalebackup/
+    - https://www.youtube.com/@WholesalebackupOnline
 show_downloads: false
 plugins: [jekyll-seo-tag]
+roadmap: false

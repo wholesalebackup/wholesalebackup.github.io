@@ -11,7 +11,7 @@ Every release of the Backup Ops Web Console, the Windows and Mac backup clients,
 
 ## September 2026
 
-- **2026-09-24** · Windows Client `26.09.24.dee142ed` · Microsoft 365 mailbox backup: mail, calendars, and contacts from an Exchange Online tenant, backed up alongside files and folders on the same schedule, with no mailbox passwords involved. Plus fixes and improvements. [Guide](https://support.wholesalebackup.com/hc/en-us/articles/56263636580763-Backing-Up-Microsoft-365-Mail-Calendars-and-Contacts)
+- **2026-09-24** · Windows Client `26.09.24.dee142ed` · Microsoft 365 mailbox backup: mail, calendars, and contacts from an Exchange Online tenant, backed up alongside files and folders on the same schedule through a read-only app registration. Plus fixes and improvements. [Guide](https://support.wholesalebackup.com/hc/en-us/articles/56263636580763-Backing-Up-Microsoft-365-Mail-Calendars-and-Contacts)
 - **2026-09-11** · Web Console `app-c36a-260911` · Hardware security keys (WebAuthn, such as YubiKey) added as a third multi-factor option for console logins, beside email codes and authenticator apps.
 - **2026-09-01** · Windows Client `26.09.01.3459807a` · Security and stability improvements.
 
@@ -163,7 +163,7 @@ Subscribe: [releases feed](https://github.com/wholesalebackup/wholesalebackup.gi
    "datePublished": "2026-09-24",
    "operatingSystem": "Windows",
    "applicationCategory": "BusinessApplication",
-   "releaseNotes": "Microsoft 365 mailbox backup: mail, calendars, and contacts from an Exchange Online tenant, backed up alongside files and folders on the same schedule, with no mailbox passwords involved. Plus fixes and improvements.",
+   "releaseNotes": "Microsoft 365 mailbox backup: mail, calendars, and contacts from an Exchange Online tenant, backed up alongside files and folders on the same schedule through a read-only app registration. Plus fixes and improvements.",
    "url": "https://wholesalebackup.github.io/releases/",
    "publisher": {
     "@type": "Organization",

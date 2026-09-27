@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+{% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    {% include head-custom.html %}
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        {% if site.logo %}<a href="{{ "/" | relative_url }}"><img src="{{ site.logo | relative_url }}" alt="WholesaleBackup" style="max-width:100%;height:auto;margin:0 0 12px" /></a>{% endif %}
+        <p>{{ site.description }}</p>
+        <ul class="wb-nav">
+          <li><a href="{{ "/" | relative_url }}">Home</a></li>
+          <li><a href="{{ "/releases/" | relative_url }}">Releases</a></li>
+          {% if site.roadmap %}<li><a href="{{ "/roadmap/" | relative_url }}">Roadmap</a></li>{% endif %}
+          <li><a href="https://github.com/wholesalebackup/wholesalebackup.github.io/releases.atom">Release feed</a></li>
+          <li><a href="https://support.wholesalebackup.com/hc/en-us">Knowledge base</a></li>
+          <li><a href="https://wholesalebackup.com/pricing/">Pricing</a></li>
+          <li><a href="https://wholesalebackup.com/">wholesalebackup.com</a></li>
+        </ul>
+        <p class="view"><a href="{{ site.github.owner_url }}">WholesaleBackup on GitHub</a></p>
+      </header>
+      <section>
+      {{ content }}
+      </section>
+      <footer>
+        <p><small>&copy; WholesaleBackup, LLC. Release notes are generated from the team's release emails after every ship.</small></p>
+      </footer>
+    </div>
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+  </body>
+</html>

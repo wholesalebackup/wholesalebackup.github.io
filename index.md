@@ -9,11 +9,11 @@ White-label backup software for MSPs, IT pros, and resellers. Brand the clients 
 
 ## Latest releases
 
-- **2026-09-24** Windows Client: Microsoft 365 mailbox backup: mail, calendars, and contacts from an Exchange Online tenant, backed up alongside files and folders on the same schedule.
+- **2026-09-24** Windows Client: Microsoft 365 mailbox backup: mail, calendars, and contacts from an Exchange Online tenant, backed up alongside files and folders on the same schedule, with no mailbox passwords involved.
 - **2026-09-11** Web Console: Hardware security keys (WebAuthn, such as YubiKey) added as a third multi-factor option for console logins, beside email codes and authenticator apps.
-- **2026-09-01** Windows Client: The AWS secret is no longer displayed in the key file view; only its last characters show, for verification.
-- **2026-08-25** Windows Client: Disk images move from VHD to VHDX.
-- **2026-08-13** Web Console: Computers marked Deleted or Suspended no longer count as Active, with finer status controls on the account.
+- **2026-09-01** Windows Client: Security and stability improvements.
+- **2026-08-25** Windows Client: Disk images now use VHDX.
+- **2026-08-13** Web Console: Improved computer status controls.
 
 [All releases](/releases/)
 

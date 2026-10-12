@@ -6,8 +6,13 @@ description: "Every WholesaleBackup release, newest first. Backup Ops Web Consol
 
 # WholesaleBackup Releases
 
-Every release of the Backup Ops Web Console, the Windows and Mac backup clients, and the self-hosted WSBU Server, newest first. Generated from the team's release notes on 2026-09-27. Product pages: [Web Console](https://wholesalebackup.com/backup-software/web-console/), [pricing](https://wholesalebackup.com/pricing/). Knowledge base: [support.wholesalebackup.com](https://support.wholesalebackup.com/hc/en-us).
+Every release of the Backup Ops Web Console, the Windows and Mac backup clients, and the self-hosted WSBU Server, newest first. Generated from the team's release notes on 2026-10-12. Product pages: [Web Console](https://wholesalebackup.com/backup-software/web-console/), [pricing](https://wholesalebackup.com/pricing/). Knowledge base: [support.wholesalebackup.com](https://support.wholesalebackup.com/hc/en-us).
 
+
+## October 2026
+
+- **2026-10-07** · Web Console `app-16d2-261007` · Build notification emails are easier to read, with download buttons in place of raw links.
+- **2026-10-06** · Web Console `app-009c-261006` · Fixes and improvements.
 
 ## September 2026
 
@@ -53,107 +58,155 @@ Subscribe: [releases feed](https://github.com/wholesalebackup/wholesalebackup.gi
    "@type": "ItemList",
    "@id": "https://wholesalebackup.github.io/releases/#list",
    "name": "WholesaleBackup releases",
-   "numberOfItems": 14,
+   "numberOfItems": 16,
    "itemListElement": [
     {
      "@type": "ListItem",
      "position": 1,
      "item": {
-      "@id": "https://wholesalebackup.github.io/releases/#windows-client-26.09.24.dee142ed"
+      "@id": "https://wholesalebackup.github.io/releases/#web-console-app-16d2-261007"
      }
     },
     {
      "@type": "ListItem",
      "position": 2,
      "item": {
-      "@id": "https://wholesalebackup.github.io/releases/#web-console-app-c36a-260911"
+      "@id": "https://wholesalebackup.github.io/releases/#web-console-app-009c-261006"
      }
     },
     {
      "@type": "ListItem",
      "position": 3,
      "item": {
-      "@id": "https://wholesalebackup.github.io/releases/#windows-client-26.09.01.3459807a"
+      "@id": "https://wholesalebackup.github.io/releases/#windows-client-26.09.24.dee142ed"
      }
     },
     {
      "@type": "ListItem",
      "position": 4,
      "item": {
-      "@id": "https://wholesalebackup.github.io/releases/#windows-client-26.08.25.92470e8d"
+      "@id": "https://wholesalebackup.github.io/releases/#web-console-app-c36a-260911"
      }
     },
     {
      "@type": "ListItem",
      "position": 5,
      "item": {
-      "@id": "https://wholesalebackup.github.io/releases/#web-console-app-7c2e-260813"
+      "@id": "https://wholesalebackup.github.io/releases/#windows-client-26.09.01.3459807a"
      }
     },
     {
      "@type": "ListItem",
      "position": 6,
      "item": {
-      "@id": "https://wholesalebackup.github.io/releases/#web-console-app-8899-260715"
+      "@id": "https://wholesalebackup.github.io/releases/#windows-client-26.08.25.92470e8d"
      }
     },
     {
      "@type": "ListItem",
      "position": 7,
      "item": {
-      "@id": "https://wholesalebackup.github.io/releases/#wsbu-server-26.07.08.66def00b"
+      "@id": "https://wholesalebackup.github.io/releases/#web-console-app-7c2e-260813"
      }
     },
     {
      "@type": "ListItem",
      "position": 8,
      "item": {
-      "@id": "https://wholesalebackup.github.io/releases/#web-console-app-285b2-260630"
+      "@id": "https://wholesalebackup.github.io/releases/#web-console-app-8899-260715"
      }
     },
     {
      "@type": "ListItem",
      "position": 9,
      "item": {
-      "@id": "https://wholesalebackup.github.io/releases/#mac-client-26.06.24.0ca3b44b"
+      "@id": "https://wholesalebackup.github.io/releases/#wsbu-server-26.07.08.66def00b"
      }
     },
     {
      "@type": "ListItem",
      "position": 10,
      "item": {
-      "@id": "https://wholesalebackup.github.io/releases/#windows-client-26.06.24.219ee212"
+      "@id": "https://wholesalebackup.github.io/releases/#web-console-app-285b2-260630"
      }
     },
     {
      "@type": "ListItem",
      "position": 11,
      "item": {
-      "@id": "https://wholesalebackup.github.io/releases/#mac-client-26.05.22.55f38c303"
+      "@id": "https://wholesalebackup.github.io/releases/#mac-client-26.06.24.0ca3b44b"
      }
     },
     {
      "@type": "ListItem",
      "position": 12,
      "item": {
-      "@id": "https://wholesalebackup.github.io/releases/#web-console-app-05a3-260520"
+      "@id": "https://wholesalebackup.github.io/releases/#windows-client-26.06.24.219ee212"
      }
     },
     {
      "@type": "ListItem",
      "position": 13,
      "item": {
-      "@id": "https://wholesalebackup.github.io/releases/#windows-client-26.05.20.6270b680"
+      "@id": "https://wholesalebackup.github.io/releases/#mac-client-26.05.22.55f38c303"
      }
     },
     {
      "@type": "ListItem",
      "position": 14,
      "item": {
+      "@id": "https://wholesalebackup.github.io/releases/#web-console-app-05a3-260520"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 15,
+     "item": {
+      "@id": "https://wholesalebackup.github.io/releases/#windows-client-26.05.20.6270b680"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 16,
+     "item": {
       "@id": "https://wholesalebackup.github.io/releases/#web-console-app-76b9-251118"
      }
     }
    ]
+  },
+  {
+   "@type": "SoftwareApplication",
+   "@id": "https://wholesalebackup.github.io/releases/#web-console-app-16d2-261007",
+   "name": "WholesaleBackup Web Console",
+   "softwareVersion": "app-16d2-261007",
+   "datePublished": "2026-10-07",
+   "operatingSystem": "Web browser",
+   "applicationCategory": "BusinessApplication",
+   "releaseNotes": "Build notification emails are easier to read, with download buttons in place of raw links.",
+   "url": "https://wholesalebackup.github.io/releases/",
+   "publisher": {
+    "@type": "Organization",
+    "@id": "https://wholesalebackup.com/#organization",
+    "name": "WholesaleBackup",
+    "url": "https://wholesalebackup.com/"
+   }
+  },
+  {
+   "@type": "SoftwareApplication",
+   "@id": "https://wholesalebackup.github.io/releases/#web-console-app-009c-261006",
+   "name": "WholesaleBackup Web Console",
+   "softwareVersion": "app-009c-261006",
+   "datePublished": "2026-10-06",
+   "operatingSystem": "Web browser",
+   "applicationCategory": "BusinessApplication",
+   "releaseNotes": "Fixes and improvements.",
+   "url": "https://wholesalebackup.github.io/releases/",
+   "publisher": {
+    "@type": "Organization",
+    "@id": "https://wholesalebackup.com/#organization",
+    "name": "WholesaleBackup",
+    "url": "https://wholesalebackup.com/"
+   }
   },
   {
    "@type": "SoftwareApplication",

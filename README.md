@@ -10,4 +10,4 @@ White-label backup software for MSPs, IT pros, and resellers. Over two decades o
 - Silent installs: https://support.wholesalebackup.com/hc/en-us/articles/201947744-Pushing-a-silent-installation
 - Service command line options: https://support.wholesalebackup.com/hc/en-us/articles/360011883234-Service-command-line-options
 
-This repo is the source of the GitHub Pages site above. `index.md` and `releases.md` are generated from the team's release notes; edit the source, not these files.
+This repo hosts the GitHub Pages site above.

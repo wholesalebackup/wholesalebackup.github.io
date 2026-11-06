@@ -6,8 +6,14 @@ description: "Every WholesaleBackup release, newest first. Backup Ops Web Consol
 
 # WholesaleBackup Releases
 
-Every release of the Backup Ops Web Console, the Windows and Mac backup clients, and the self-hosted WSBU Server, newest first. Generated from the team's release notes on 2026-10-23. Product pages: [Web Console](https://wholesalebackup.com/backup-software/web-console/), [pricing](https://wholesalebackup.com/pricing/). Knowledge base: [support.wholesalebackup.com](https://support.wholesalebackup.com/hc/en-us).
+Every release of the Backup Ops Web Console, the Windows and Mac backup clients, and the self-hosted WSBU Server, newest first. Generated from the team's release notes on 2026-11-05. Product pages: [Web Console](https://wholesalebackup.com/backup-software/web-console/), [pricing](https://wholesalebackup.com/pricing/). Knowledge base: [support.wholesalebackup.com](https://support.wholesalebackup.com/hc/en-us).
 
+
+## November 2026
+
+- **2026-11-05** · Mac Client `26.11.05.95980f52` · Fixes and improvements.
+- **2026-11-05** · Windows Client `26.11.05.95980f52` · Back up Google Workspace: mail, Drive (including shared drives), calendar and contacts. Fixes and improvements. [Guide](https://support.wholesalebackup.com/hc/en-us/articles/58261524916379-Backing-Up-Google-Workspace-Mail-Contacts-Calendars-and-Drive)
+- **2026-11-03** · Web Console `app-6233-261103_151304240216` · API v2: create keys with read and write access to start and stop backups, sync settings and restart the service from your own tools, and update a computer's custom text field. [Guide](https://support.wholesalebackup.com/hc/en-us/articles/57162715102619-WholesaleBackup-Web-Console-API-for-RMM)
 
 ## October 2026
 
@@ -58,149 +64,229 @@ Every release of the Backup Ops Web Console, the Windows and Mac backup clients,
    "@type": "ItemList",
    "@id": "https://wholesalebackup.github.io/releases/#list",
    "name": "WholesaleBackup releases",
-   "numberOfItems": 20,
+   "numberOfItems": 23,
    "itemListElement": [
     {
      "@type": "ListItem",
      "position": 1,
      "item": {
-      "@id": "https://wholesalebackup.github.io/releases/#web-console-app-1ac2b-261021"
+      "@id": "https://wholesalebackup.github.io/releases/#mac-client-26.11.05.95980f52"
      }
     },
     {
      "@type": "ListItem",
      "position": 2,
      "item": {
-      "@id": "https://wholesalebackup.github.io/releases/#mac-client-26.10.20.70fbffc3"
+      "@id": "https://wholesalebackup.github.io/releases/#windows-client-26.11.05.95980f52"
      }
     },
     {
      "@type": "ListItem",
      "position": 3,
      "item": {
-      "@id": "https://wholesalebackup.github.io/releases/#wsbu-server-26.10.20.74a64f64"
+      "@id": "https://wholesalebackup.github.io/releases/#web-console-app-6233-261103_151304240216"
      }
     },
     {
      "@type": "ListItem",
      "position": 4,
      "item": {
-      "@id": "https://wholesalebackup.github.io/releases/#windows-client-26.10.20.70fbffc3"
+      "@id": "https://wholesalebackup.github.io/releases/#web-console-app-1ac2b-261021"
      }
     },
     {
      "@type": "ListItem",
      "position": 5,
      "item": {
-      "@id": "https://wholesalebackup.github.io/releases/#web-console-app-16d2-261007"
+      "@id": "https://wholesalebackup.github.io/releases/#mac-client-26.10.20.70fbffc3"
      }
     },
     {
      "@type": "ListItem",
      "position": 6,
      "item": {
-      "@id": "https://wholesalebackup.github.io/releases/#web-console-app-009c-261006"
+      "@id": "https://wholesalebackup.github.io/releases/#wsbu-server-26.10.20.74a64f64"
      }
     },
     {
      "@type": "ListItem",
      "position": 7,
      "item": {
-      "@id": "https://wholesalebackup.github.io/releases/#windows-client-26.09.24.dee142ed"
+      "@id": "https://wholesalebackup.github.io/releases/#windows-client-26.10.20.70fbffc3"
      }
     },
     {
      "@type": "ListItem",
      "position": 8,
      "item": {
-      "@id": "https://wholesalebackup.github.io/releases/#web-console-app-c36a-260911"
+      "@id": "https://wholesalebackup.github.io/releases/#web-console-app-16d2-261007"
      }
     },
     {
      "@type": "ListItem",
      "position": 9,
      "item": {
-      "@id": "https://wholesalebackup.github.io/releases/#windows-client-26.09.01.3459807a"
+      "@id": "https://wholesalebackup.github.io/releases/#web-console-app-009c-261006"
      }
     },
     {
      "@type": "ListItem",
      "position": 10,
      "item": {
-      "@id": "https://wholesalebackup.github.io/releases/#windows-client-26.08.25.92470e8d"
+      "@id": "https://wholesalebackup.github.io/releases/#windows-client-26.09.24.dee142ed"
      }
     },
     {
      "@type": "ListItem",
      "position": 11,
      "item": {
-      "@id": "https://wholesalebackup.github.io/releases/#web-console-app-7c2e-260813"
+      "@id": "https://wholesalebackup.github.io/releases/#web-console-app-c36a-260911"
      }
     },
     {
      "@type": "ListItem",
      "position": 12,
      "item": {
-      "@id": "https://wholesalebackup.github.io/releases/#web-console-app-8899-260715"
+      "@id": "https://wholesalebackup.github.io/releases/#windows-client-26.09.01.3459807a"
      }
     },
     {
      "@type": "ListItem",
      "position": 13,
      "item": {
-      "@id": "https://wholesalebackup.github.io/releases/#wsbu-server-26.07.08.66def00b"
+      "@id": "https://wholesalebackup.github.io/releases/#windows-client-26.08.25.92470e8d"
      }
     },
     {
      "@type": "ListItem",
      "position": 14,
      "item": {
-      "@id": "https://wholesalebackup.github.io/releases/#web-console-app-285b2-260630"
+      "@id": "https://wholesalebackup.github.io/releases/#web-console-app-7c2e-260813"
      }
     },
     {
      "@type": "ListItem",
      "position": 15,
      "item": {
-      "@id": "https://wholesalebackup.github.io/releases/#mac-client-26.06.24.0ca3b44b"
+      "@id": "https://wholesalebackup.github.io/releases/#web-console-app-8899-260715"
      }
     },
     {
      "@type": "ListItem",
      "position": 16,
      "item": {
-      "@id": "https://wholesalebackup.github.io/releases/#windows-client-26.06.24.219ee212"
+      "@id": "https://wholesalebackup.github.io/releases/#wsbu-server-26.07.08.66def00b"
      }
     },
     {
      "@type": "ListItem",
      "position": 17,
      "item": {
-      "@id": "https://wholesalebackup.github.io/releases/#mac-client-26.05.22.55f38c303"
+      "@id": "https://wholesalebackup.github.io/releases/#web-console-app-285b2-260630"
      }
     },
     {
      "@type": "ListItem",
      "position": 18,
      "item": {
-      "@id": "https://wholesalebackup.github.io/releases/#web-console-app-05a3-260520"
+      "@id": "https://wholesalebackup.github.io/releases/#mac-client-26.06.24.0ca3b44b"
      }
     },
     {
      "@type": "ListItem",
      "position": 19,
      "item": {
-      "@id": "https://wholesalebackup.github.io/releases/#windows-client-26.05.20.6270b680"
+      "@id": "https://wholesalebackup.github.io/releases/#windows-client-26.06.24.219ee212"
      }
     },
     {
      "@type": "ListItem",
      "position": 20,
      "item": {
+      "@id": "https://wholesalebackup.github.io/releases/#mac-client-26.05.22.55f38c303"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 21,
+     "item": {
+      "@id": "https://wholesalebackup.github.io/releases/#web-console-app-05a3-260520"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 22,
+     "item": {
+      "@id": "https://wholesalebackup.github.io/releases/#windows-client-26.05.20.6270b680"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 23,
+     "item": {
       "@id": "https://wholesalebackup.github.io/releases/#web-console-app-76b9-251118"
      }
     }
    ]
+  },
+  {
+   "@type": "SoftwareApplication",
+   "@id": "https://wholesalebackup.github.io/releases/#mac-client-26.11.05.95980f52",
+   "name": "WholesaleBackup Mac Client",
+   "softwareVersion": "26.11.05.95980f52",
+   "datePublished": "2026-11-05",
+   "operatingSystem": "macOS",
+   "applicationCategory": "BusinessApplication",
+   "releaseNotes": "Fixes and improvements.",
+   "url": "https://wholesalebackup.github.io/releases/",
+   "publisher": {
+    "@type": "Organization",
+    "@id": "https://wholesalebackup.com/#organization",
+    "name": "WholesaleBackup",
+    "url": "https://wholesalebackup.com/"
+   }
+  },
+  {
+   "@type": "SoftwareApplication",
+   "@id": "https://wholesalebackup.github.io/releases/#windows-client-26.11.05.95980f52",
+   "name": "WholesaleBackup Windows Client",
+   "softwareVersion": "26.11.05.95980f52",
+   "datePublished": "2026-11-05",
+   "operatingSystem": "Windows",
+   "applicationCategory": "BusinessApplication",
+   "releaseNotes": "Back up Google Workspace: mail, Drive (including shared drives), calendar and contacts. Fixes and improvements.",
+   "url": "https://wholesalebackup.github.io/releases/",
+   "publisher": {
+    "@type": "Organization",
+    "@id": "https://wholesalebackup.com/#organization",
+    "name": "WholesaleBackup",
+    "url": "https://wholesalebackup.com/"
+   },
+   "softwareHelp": {
+    "@type": "CreativeWork",
+    "url": "https://support.wholesalebackup.com/hc/en-us/articles/58261524916379-Backing-Up-Google-Workspace-Mail-Contacts-Calendars-and-Drive"
+   }
+  },
+  {
+   "@type": "SoftwareApplication",
+   "@id": "https://wholesalebackup.github.io/releases/#web-console-app-6233-261103_151304240216",
+   "name": "WholesaleBackup Web Console",
+   "softwareVersion": "app-6233-261103_151304240216",
+   "datePublished": "2026-11-03",
+   "operatingSystem": "Web browser",
+   "applicationCategory": "BusinessApplication",
+   "releaseNotes": "API v2: create keys with read and write access to start and stop backups, sync settings and restart the service from your own tools, and update a computer's custom text field.",
+   "url": "https://wholesalebackup.github.io/releases/",
+   "publisher": {
+    "@type": "Organization",
+    "@id": "https://wholesalebackup.com/#organization",
+    "name": "WholesaleBackup",
+    "url": "https://wholesalebackup.com/"
+   },
+   "softwareHelp": {
+    "@type": "CreativeWork",
+    "url": "https://support.wholesalebackup.com/hc/en-us/articles/57162715102619-WholesaleBackup-Web-Console-API-for-RMM"
+   }
   },
   {
    "@type": "SoftwareApplication",

@@ -9,11 +9,11 @@ White-label backup software for MSPs, IT pros, and resellers. Brand the clients 
 
 ## Latest releases
 
+- **2026-11-05** Mac Client: Fixes and improvements.
+- **2026-11-05** Windows Client: Back up Google Workspace: mail, Drive (including shared drives), calendar and contacts.
+- **2026-11-03** Web Console: API v2: create keys with read and write access to start and stop backups, sync settings and restart the service from your own tools, and update a computer's custom text field.
 - **2026-10-21** Web Console: RMM API: pull backup status, storage and alerts for every device into NinjaOne, N-able, Datto RMM or your own scripts, using read-only keys from the new API Keys page in the Web Console.
 - **2026-10-20** Mac Client: Security and stability improvements.
-- **2026-10-20** WSBU Server: Security and stability improvements.
-- **2026-10-20** Windows Client: Security and stability improvements.
-- **2026-10-07** Web Console: Build notification emails are easier to read, with download buttons in place of raw links.
 
 [All releases](/releases/)
 

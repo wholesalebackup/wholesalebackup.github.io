@@ -6,7 +6,7 @@ description: "Every WholesaleBackup release, newest first. Backup Ops Web Consol
 
 # WholesaleBackup Releases
 
-Every release of the Backup Ops Web Console, the Windows and Mac backup clients, and the self-hosted WSBU Server, newest first. Generated from the team's release notes on 2026-11-05. Product pages: [Web Console](https://wholesalebackup.com/backup-software/web-console/), [pricing](https://wholesalebackup.com/pricing/). Knowledge base: [support.wholesalebackup.com](https://support.wholesalebackup.com/hc/en-us).
+Every release of the Backup Ops Web Console, the Windows and Mac backup clients, and the self-hosted WSBU Server, newest first. Updated 2026-11-05. Product pages: [Web Console](https://wholesalebackup.com/backup-software/web-console/), [pricing](https://wholesalebackup.com/pricing/). Knowledge base: [support.wholesalebackup.com](https://support.wholesalebackup.com/hc/en-us).
 
 
 ## November 2026
